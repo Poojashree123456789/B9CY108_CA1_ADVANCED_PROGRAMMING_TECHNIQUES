@@ -204,14 +204,3 @@ The script will scrape the specified hotel sources, save results to `hotels.csv`
 
 ---
 
-## License
-
-See `LICENSE` file for details.
-
----
-
-## Notes
-
-- All code follows best practices for the respective languages (C# and Python).
-- Proper error handling and input validation implemented throughout.
-- Documentation and comments provided in source files for clarity.
