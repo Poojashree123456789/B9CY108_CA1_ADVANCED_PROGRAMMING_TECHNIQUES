@@ -1,0 +1,14 @@
+C:\Users\POOJA\OneDrive\ドキュメント\Que2\Que2\bin\Debug\net8.0\Que2.exe
+C:\Users\POOJA\OneDrive\ドキュメント\Que2\Que2\bin\Debug\net8.0\Que2.deps.json
+C:\Users\POOJA\OneDrive\ドキュメント\Que2\Que2\bin\Debug\net8.0\Que2.runtimeconfig.json
+C:\Users\POOJA\OneDrive\ドキュメント\Que2\Que2\bin\Debug\net8.0\Que2.dll
+C:\Users\POOJA\OneDrive\ドキュメント\Que2\Que2\bin\Debug\net8.0\Que2.pdb
+C:\Users\POOJA\OneDrive\ドキュメント\Que2\Que2\obj\Debug\net8.0\Que2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\POOJA\OneDrive\ドキュメント\Que2\Que2\obj\Debug\net8.0\Que2.AssemblyInfoInputs.cache
+C:\Users\POOJA\OneDrive\ドキュメント\Que2\Que2\obj\Debug\net8.0\Que2.AssemblyInfo.cs
+C:\Users\POOJA\OneDrive\ドキュメント\Que2\Que2\obj\Debug\net8.0\Que2.csproj.CoreCompileInputs.cache
+C:\Users\POOJA\OneDrive\ドキュメント\Que2\Que2\obj\Debug\net8.0\Que2.dll
+C:\Users\POOJA\OneDrive\ドキュメント\Que2\Que2\obj\Debug\net8.0\refint\Que2.dll
+C:\Users\POOJA\OneDrive\ドキュメント\Que2\Que2\obj\Debug\net8.0\Que2.pdb
+C:\Users\POOJA\OneDrive\ドキュメント\Que2\Que2\obj\Debug\net8.0\Que2.genruntimeconfig.cache
+C:\Users\POOJA\OneDrive\ドキュメント\Que2\Que2\obj\Debug\net8.0\ref\Que2.dll
